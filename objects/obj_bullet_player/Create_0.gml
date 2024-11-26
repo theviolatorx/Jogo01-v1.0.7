@@ -1,0 +1,1 @@
+audio_play_sound(snd_bullet_player, 0, false)

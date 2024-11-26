@@ -1,0 +1,24 @@
+{
+  "$GMPath":"",
+  "%Name":"pth_inimigo2",
+  "closed":false,
+  "kind":0,
+  "name":"pth_inimigo2",
+  "parent":{
+    "name":"Caminhos",
+    "path":"folders/Caminhos.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":256.0,"y":-32.0,},
+    {"speed":100.0,"x":256.0,"y":128.0,},
+    {"speed":100.0,"x":256.0,"y":224.0,},
+    {"speed":100.0,"x":256.0,"y":288.0,},
+    {"speed":100.0,"x":192.0,"y":224.0,},
+    {"speed":100.0,"x":96.0,"y":224.0,},
+    {"speed":100.0,"x":32.0,"y":288.0,},
+    {"speed":100.0,"x":32.0,"y":-32.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,7 @@
+randomize()
+var _powerup = choose(obj_powerup6, obj_powerup5, obj_powerup4, obj_powerup3, obj_powerup1, obj_powerup2) // choose(obj_powerup6, obj_powerup1, obj_powerup2) 
+var _x = random_range(36, room_width - 36)
+var _y = random_range(36 * 2, room_width - 36)
+instance_create_layer(_x, _y, "Powerup", _powerup)
+audio_play_sound(snd_powerup_aparece, 0, false)
+alarm[0] = random_range(480, 660)
